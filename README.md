@@ -12,21 +12,16 @@ I'm on a journey to build a career that allows me to be creative, innovative, an
 I couldn’t be more excited to see what the future holds for me, and I hope to have a lot of
 opportunities to work on projects that push the boundaries of what s possible.
 
-<details>
- <summary>
-    <h2>📒 Resume</h2>
-</summary>
+## 🎓 Academic Background
 
- <details>
-  <summary><h4>🧑‍🎓 Academics</h4></summary>
- </details>
+- **Java Bootcamp**  
+  _Upskill IEFP IPP_ - Porto, Portugal  
+  **October 2020 - March 2021**
 
- <details>
-  <summary><h4>👷 Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
-</details>
+- **Degree in New Technologies of Communication**  
+  _University of Aveiro_ - Aveiro, Portugal  
+  **September 2017 - July 2020**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

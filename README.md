@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+Hi there! I’m Marco! I have a degree in New Communication Technologies from the University of
+Aveiro, which I completed a few years ago (2017 - 2020). My education strengthened my passion
+for programming and design, and now I'm eager to put my skills to use and make a real
+difference in the world.
+
+
+I was born and raised in the small town of Vizela, but I've always had big dreams for my future.
+I'm on a journey to build a career that allows me to be creative, innovative, and make an impact.
+
+I couldn’t be more excited to see what the future holds for me, and I hope to have a lot of
+opportunities to work on projects that push the boundaries of what s possible.
 
 <details>
  <summary>

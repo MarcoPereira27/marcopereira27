@@ -22,6 +22,31 @@ opportunities to work on projects that push the boundaries of what s possible.
   _University of Aveiro_ - Aveiro, Portugal  
   **September 2017 - July 2020**
 
+## 💼 Work Experience
+
+### Deloitte - Porto, Portugal  
+**March 2021 - Present**  
+*Crafting impactful digital solutions with technologies like Angular, Java, and Quarkus for international clients.*  
+Focused on UI/UX design, cloud solutions (AWS), and CI/CD processes using Jenkins and Docker.
+
+- **Team Leader**  
+  _December 2023 - Present_  
+  Leading a talented team on a React project, leveraging Redux for state management and Tailwind CSS for styling.  
+  - Conduct agile ceremonies: sprint planning, stand-ups, retrospectives.
+  - Foster direct client communication, translating needs into technical solutions.
+  - Champion a collaborative team environment with a focus on innovation.
+
+- **Experienced Programmer**  
+  _September 2022 - December 2023_  
+  Delivered optimized web applications by enhancing performance and implementing best coding practices.
+
+- **Junior Programmer**  
+  _June 2021 - September 2022_  
+  Contributed to project modules, learning industry best practices and expanding skills in full-stack development.
+
+- **Trainee**  
+  _March 2021 - June 2021_  
+  Kickstarted my journey at Deloitte with hands-on experience in software development and agile methodologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

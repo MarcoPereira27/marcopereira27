@@ -48,6 +48,8 @@ Focused on UI/UX design, cloud solutions (AWS), and CI/CD processes using Jenkin
   _March 2021 - June 2021_  
   Kickstarted my journey at Deloitte with hands-on experience in software development and agile methodologies.
 
+Test
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marco-pereira-119277189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-pereira-119277189" height="30" width="40" /></a>

@@ -57,7 +57,7 @@ Here's a glimpse into what’s keeping me inspired and entertained lately:
  - I'm watching a portuguese crime show called ["O Americano"](https://www.imdb.com/title/tt21990710/), which translates to "The American"
  - I'm also trying to play the top 10 games that came out of the [JS13kGames Game Jam](https://js13kgames.com/2024/blog/winners-announced). Been thinking about joining the game jam and try to submit my own game.
  - Watching and playing a lot of Tennis 🎾
- - Obsessed with the concept of Communal Computing (Check [Dynamicland](dynamicland.org/))
+ - Obsessed with the concept of Communal Computing (Check [Dynamicland](https://www.dynamicland.org/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
